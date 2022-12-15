@@ -1,3 +1,5 @@
+DROP TABLE States, Quarters, Average_Earnings, Population_Change, Internal_arrival, Internal_departures, Internal_Net_Change, Analysis_Table
+
 -- Create a new table for States
 
 CREATE TABLE States (
