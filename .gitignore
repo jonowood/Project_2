@@ -128,3 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 ~$Project 2-ETL - ERP vs.AWE.pptx
+Working/ABS_AWE.csv
+Working/ABS_AWE_CLEAN.csv
+Working/ABS_ERP_COMP.csv
+Working/ABS_ERP_COMP_CLEAN.csv
