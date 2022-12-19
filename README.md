@@ -76,47 +76,43 @@ Project_2\
 
 ....Project 2 ETL Notebook.ipynb
 
-....Images\
+..Images\
 
-......analysis_t.png
+....analysis_t.png
 
-......average_earnings_t.png
+....average_earnings_t.png
 
-......internal_arrivals_t.png
+....internal_arrivals_t.png
 
-......internal_departures_t.png
+....internal_departures_t.png
 
-......internal_net_change_t.png
+....internal_net_change_t.png
 
-......population_change_t.png
+....population_change_t.png
 
-......quarters_table.png
+....quarters_table.png
 
-......states_table.png
+....states_table.png
 
-....Proposal\
+..Proposal\
 
-......Project 2 - Proposal - ERP vs AWE.pdf
+....Project 2 - Proposal - ERP vs AWE.pdf
 
-......Project 2 - Proposal - ERP vs AWE.pptx
+..Report\
 
-....Report\
+....Project_2_Final Report_ETL.pdf
 
-......Project_2_Final Report_ETL.pdf
+..Resources\
 
-....Project_2_Final Report_ETL.pptx
+....ABS_AWE_CLEAN.csv
 
-....Resources\
+....ABS_ERP_COMP_CLEAN.csv
 
-......ABS_AWE_CLEAN.csv
+..Schema\
 
-......ABS_ERP_COMP_CLEAN.csv
+....Project2-ETL-Database-Relationship-Diagram.png
 
-....Schema\
+....Project2-ETL-Database-Schema.pdf
 
-......Project2-ETL-Database-Relationship-Diagram.png
-
-......Project2-ETL-Database-Schema.pdf
-
-......Project2-ETL-Database-Schema.sql
+....Project2-ETL-Database-Schema.sql
 
