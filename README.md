@@ -62,12 +62,13 @@ GitHub repository is free of unnecessary files and folders and has an appropriat
 
 The README is descriptive, complete, and professional. (20 points)
 
-Submission
-To submit your project, click Submit, and then provide the URL of your GitHub repository for grading.
-
 ------
 
-The following files are included in this submission;
+### Submission
+
+To submit your project, click Submit, and then provide the URL of your GitHub repository for grading.
+
+#### The following files are included in this submission;
 
 Project_2\
 
